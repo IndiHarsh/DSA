@@ -1,3 +1,2 @@
 # DSA
-Hello everyone, in this repository I have collected all codes used by me to understand DSA concepts better.
-Hope it may be helpful for you too :)
+Hello everyone, in this repository, I have compiled all the codes I used to better understand DSA concepts. I hope they prove helpful to you as well :)
