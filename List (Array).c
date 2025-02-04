@@ -38,7 +38,7 @@ void insertElement(struct List *list, int value) {
     printf("Element %d inserted successfully.\n", value);
 }
 
-// Function to delete an element from the list
+// Function to delete an element from the list Hell nahww adding this to increase contribution :)
 void deleteElement(struct List *list, int value) {
     if (list->size == 0) {
         printf("Error: List is empty. Cannot delete element.\n");
